@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\ADMIN\\Desktop\\Kutubxona\\Imtihon22\\Imtihon22\\Imtihon22.csproj",
+      "projectUniqueName": "C:\\Users\\ADMIN\\Desktop\\folder\\oop_imtihon\\Imtihon22\\Imtihon22\\Imtihon22.csproj",
       "projectName": "Imtihon22",
-      "projectPath": "C:\\Users\\ADMIN\\Desktop\\Kutubxona\\Imtihon22\\Imtihon22\\Imtihon22.csproj",
+      "projectPath": "C:\\Users\\ADMIN\\Desktop\\folder\\oop_imtihon\\Imtihon22\\Imtihon22\\Imtihon22.csproj",
       "packagesPath": "C:\\Users\\ADMIN\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\ADMIN\\Desktop\\Kutubxona\\Imtihon22\\Imtihon22\\obj\\",
+      "outputPath": "C:\\Users\\ADMIN\\Desktop\\folder\\oop_imtihon\\Imtihon22\\Imtihon22\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\ADMIN\\AppData\\Roaming\\NuGet\\NuGet.Config",

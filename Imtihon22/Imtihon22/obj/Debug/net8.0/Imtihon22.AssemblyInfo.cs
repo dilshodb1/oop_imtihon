@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Imtihon22")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+185b530465f203750bd404d015633a873825dd1c")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+ac15792ba85c81641ec58b7ed00f903d414d91af")]
 [assembly: System.Reflection.AssemblyProductAttribute("Imtihon22")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Imtihon22")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
